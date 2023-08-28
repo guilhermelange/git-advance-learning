@@ -1,7 +1,9 @@
 # Table of contents
 
-* [pagina 01](README.md)
-  * [Subnivel 1](readme/subnivel-1.md)
-* [pagina 02](pagina-02/README.md)
-  * [Subnivel 2](pagina-02/subnivel-2.md)
-  * [Subnível 3](pagina-02/subnivel-3.md)
+* [Produto](README.md)
+  * [Manager](readme/manager/README.md)
+    * [Clientes](readme/manager/clientes/README.md)
+      * [Provi](readme/manager/clientes/provi.md)
+    * [APIs](readme/manager/apis.md)
+  * [Evolution](readme/evolution.md)
+* [Teste](teste.md)
